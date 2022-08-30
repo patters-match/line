@@ -1,4 +1,7 @@
-# Line: a one-line arcade game for ZX Spectrum 
+# Line: a one-line arcade game for ZX Spectrum
+#
+# by patters, with optimization assistance from Einar Saukas
+#
 # https://patters.itch.io/line
 #
 for l=-6 to 0: \
