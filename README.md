@@ -3,6 +3,8 @@ A one-line arcade game for ZX Spectrum, which fits within a single screen as per
 
 https://patters.itch.io/line
 
+Optimization assistance by [Einar Saukas](https://spectrumcomputing.co.uk/forums/viewtopic.php?f=6&t=1760#p24978).
+
 [![Line Screenshots](images/line.png "Line Screenshots")](https://patters.itch.io/line)
 
 > _-This is extremely enjoyable and probably the best game in the "fun per line of code" category  
