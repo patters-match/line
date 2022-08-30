@@ -1,20 +1,17 @@
 # Line
-A one-line arcade game for ZX Spectrum, which fits within a single screen.
+A one-line arcade game for ZX Spectrum, which fits within a single screen [as per convention](http://reptonix.awardspace.co.uk/sinclair/oneliners/).
 
 https://patters.itch.io/line
 
 [![Line Screenshots](images/line.png "Line Screenshots")](https://patters.itch.io/line)
 
-> This is extremely enjoyable and probably the best game in the "fun per line of code" category
-
-_f-a, worldofspectrum.org forum_
-
-
-> What a nice example of simplicity and elegance in both the programming and the design
-
-_IvanBasic, worldofspectrum.org forum_
+> _-This is extremely enjoyable and probably the best game in the "fun per line of code" category  
+f-a, worldofspectrum.org forum_
 
 
-> Quite frankly a thing of beauty
+> _-What a nice example of simplicity and elegance in both the programming and the design  
+IvanBasic, worldofspectrum.org forum_
 
-_Retrospectrum, youtube.com_
+
+> _-Quite frankly a thing of beauty  
+[Retrospectrum](https://youtube.com/watch?v=jNMOylogD84), youtube.com_
