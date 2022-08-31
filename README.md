@@ -1,6 +1,7 @@
 # Line
 A one-line arcade game for ZX Spectrum, which fits within a single screen as per [established convention](http://reptonix.awardspace.co.uk/sinclair/oneliners/).
 
+Download the game here:
 https://patters.itch.io/line
 
 Optimization assistance by [Einar Saukas](https://spectrumcomputing.co.uk/forums/viewtopic.php?f=6&t=1760#p24978).
